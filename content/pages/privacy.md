@@ -8,7 +8,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 This site is run by Jonathan McCallum. It is a small personal site: writing, and a chat that answers from that writing. There are no accounts, no tracking, no advertising, and nothing for sale.
 
-If you need to ask about anything on this page, the way to reach Jonathan is a message on [Instagram](https://www.instagram.com/jonamccallum) or [Threads](https://www.threads.com/@jonamccallum).
+Если вам нужно спросить о чём-то на этой странице или о ваших личных данных, напишите Джонатану: <a href="#" data-contact-email data-contact-email-text>Написать мне</a>. Вы также можете написать ему в [Instagram](https://www.instagram.com/jonamccallum) или [Threads](https://www.threads.com/@jonamccallum).
 
 ## The chat: "Interact with Jonathan's writing"
 
@@ -20,7 +20,7 @@ When you type a question, it is sent to Cloudflare — the company that hosts th
 
 ## Leave a note
 
-Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. If you would like a reply, message him on social media instead.
+Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. Если хотите получить ответ, напишите ему: <a href="#" data-contact-email data-contact-email-text>Написать мне</a> или отправьте сообщение в социальных сетях.
 
 ## What is not collected
 
