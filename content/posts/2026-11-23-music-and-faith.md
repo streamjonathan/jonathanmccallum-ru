@@ -3,7 +3,7 @@ title: "Музыка и вера"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/robozerovva.jpg
 ---
 
 Я много времени слушаю музыкантов в Инстаграме. Вот некоторые, кого я слушаю в последнее время.
@@ -14,70 +14,68 @@ shareImage: /images/music-faith/sonreal.jpg
 
 Не все они поют песни поклонения. Большинство просто поют о жизни, и вера — часть этого. Вот что мне в них нравится. Нажмите на карточку, чтобы посмотреть песню в Инстаграме.
 
-Я также сделал видео-реакцию на новую песню SonReal. Посмотреть можно здесь:
-
-[Моя реакция на новое видео SonReal](https://www.youtube.com/shorts/wePjZMr6beE)
+Эти песни — на русском. Это музыканты, которые поют на русском: кто-то — песни поклонения, кто-то — о жизни, и вера — часть этого.
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">Забавный, полный надежды рэп о том, что хорошую музыку узнаёшь сразу. Не суди книгу по обложке.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DaLt_nRi9VS/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/robozerovva.jpg" alt="Khrystyna Bondareva" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Khrystyna Bondareva</span>
+<span class="ig-card__note">Поёт на русском песню поклонения — «Будь превознесен».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">"Я оставлю тебе место." Нежная песня и свободный стул.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DJYiguUIm26/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/_as_aviya_.jpg" alt="Aviya" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Aviya</span>
+<span class="ig-card__note">Поёт с командой прославления — песня поклонения на русском.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">Её песня "Notice" наконец вышла — больше чем через год после того, как она впервые её сыграла.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DS2-Janjl8U/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sonolybvi.jpg" alt="Sofia Guska" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sofia Guska</span>
+<span class="ig-card__note">Показывает христианскую музыку, которую стоит услышать.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">"Your Heart in the Fire" — lo-fi фолк с Севера, честный, выветренный, сырой.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DdrqL6YA1EV/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/arishkasas.jpg" alt="Arishka" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Arishka</span>
+<span class="ig-card__note">Поёт под гитару — «Я в присутствии Твоём».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">В прошлом году он отдал свою жизнь Богу. Теперь он хочет рассказать свою историю и славить Его.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfFPuK4tSo7/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/christiano4ka.jpg" alt="Nadezhda Nikitina" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Nadezhda Nikitina</span>
+<span class="ig-card__note">Ведёт поклонение — «Ты Бог, творящий чудеса».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">Его новая песня "Not Alone" и зал в Сан-Франциско, поющий каждое слово.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DW_VNn2iuPx/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/serafim_bit_kharibi.jpg" alt="Serafim Bit-Kharibi" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Serafim Bit-Kharibi</span>
+<span class="ig-card__note">Священник и певец — музыка к Пасхе Христовой.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">"Secret Fort" — детские дни за церковью, вечерние колокола, лучшие друзья и выдуманные миры.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DIxm8MuCe4l/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/ruslan_t_official.jpg" alt="Ruslan T" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Ruslan T</span>
+<span class="ig-card__note">Песня-благодарность Богу — «Благодарю».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">Новая песня по Луке 15, о блудном сыне. "Let Me Go".</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Dd6f7FSh58b/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/ilyushik_official.jpg" alt="Ilya Shishkin" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Ilya Shishkin</span>
+<span class="ig-card__note">Автор и исполнитель — поёт на русском о вере.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">"Иисус добр. Тур — это дар." Её песни, сыгранные дома.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfSX4LVRbuQ/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/worshipovec.jpg" alt="Karen Karagyan" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Karen Karagyan</span>
+<span class="ig-card__note">Поёт на русском о том, что Иисус — компас в жизни.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">Её песня "keep going" — мечтательная ретро-музыка об Иисусе, уже вышла.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df1__MaxkyS/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/ruslan_schwez.jpg" alt="Ruslan Schwez" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Ruslan Schwez</span>
+<span class="ig-card__note">Песня поклонения о помощи и защите Бога.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">"Все знают кого-то, кому нужно услышать об Иисусе."</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DcDV4nitF4c/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/shteps_s.jpg" alt="Sergey Shteps" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sergey Shteps</span>
+<span class="ig-card__note">Актёр и музыкант — рассказывает, как пришёл ко Христу.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">Песни о её пути к душевному здоровью. И это тоже поп-панк.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Det7So_ACDS/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/serzh_hugo.jpg" alt="Sergey Vasilenko" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sergey Vasilenko</span>
+<span class="ig-card__note">Поёт песню — «Если бы апостол Пётр написал песню».</span></span>
 </a>
 </div>
 
